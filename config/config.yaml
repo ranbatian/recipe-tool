@@ -1,0 +1,8 @@
+db:
+  port: 3306
+  database: recipe
+  host: 127.0.0.1
+  username: root
+  password: zhr990410
+server:
+  port: 8080
